@@ -22,4 +22,5 @@ docs/site/
 # committed for packages, but should be committed for applications that require a static
 # environment.
 Manifest.toml
-cached_data/censoc_dmf_v4.csv
+/cached_data
+.DS_Store
